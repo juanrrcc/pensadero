@@ -1,1 +1,0 @@
-./agora-results -c /home/juanrrcc/agora-results/configsAgora/ConsultaReelecionesGenerales/Consulta.config.results.json -t /srv/election-orchestra/server1/public/141010/tally.tar.gz -s -p ./configsAgora/pipeWhitelist.txt -o pretty > ./ConsultaReelecionesGenerales/141010.resultados.pretty
